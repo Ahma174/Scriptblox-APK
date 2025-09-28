@@ -1,4 +1,4 @@
-scriptblox APK made with appilix, PWA (Progressive Web App)
+Scriptblox APK made with appilix, PWA (Progressive Web App)
 
 App info:
 App Name: Scriptblox
