@@ -1,9 +1,13 @@
 Scriptblox APK made with appilix, PWA (Progressive Web App)
 
 App info:
-App Name: Scriptblox
+
+App Name: ScriptBlox
+
 App Package: com.scriptblox.app
+
 Version: 1.0
+
 Version Code: 1
 
 if you see play protect when installing Do this:
